@@ -1,0 +1,24 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Object Oriented RPG in which a user battles against a series of enemies whose health and stats can be sustained by a potion.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeveBa/jest-another-RPG.git"
+  },
+  "keywords": [
+    "OOP",
+    "game",
+    "RBG"
+  ],
+  "author": "Seve Barrutia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeveBa/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/SeveBa/jest-another-RPG#readme"
+}
